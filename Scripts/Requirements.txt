@@ -1,0 +1,8 @@
+nltk
+PyDictionary
+random
+speech_recognition
+pyaudio 
+pyttsx3
+os
+re
